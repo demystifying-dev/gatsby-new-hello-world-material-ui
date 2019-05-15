@@ -1,3 +1,27 @@
+### Hello world Material UI example we created with Gatsby Hello world
+
+You can just simply run this by doing the following:
+
+* npm install
+* . run
+
+after editing run to choose whichever port you wish to run it on.
+
+We did the following:
+
+* npx gatsby new material-ui https://github.com/gatsbyjs/gatsby-starter-hello-world
+* Added material-ui dependencies:
+    * @material-ui/core
+    * prop-types
+    * react-jss
+* Then, from the material-ui gatsby example, we copied into the ./src directory:
+    * getPageContext.js
+    * withRoot.js
+* As well as the two pages from the example:
+    * ./src/index.js
+    * ./src/about.js
+
+### Gatsby
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
