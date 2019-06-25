@@ -1,5 +1,7 @@
 ### Hello world Material UI example we created with Gatsby Hello world
 
+**DEPRECATED Material 3.9.x** Different approach is required for Material 4.x
+
 You can just simply run this by doing the following:
 
 * npm install
